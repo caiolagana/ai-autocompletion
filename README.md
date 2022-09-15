@@ -1,2 +1,2 @@
 # ai-autocompletion
-Artificial Intelligence exercise
+AI exercise
